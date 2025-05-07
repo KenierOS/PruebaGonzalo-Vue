@@ -32,7 +32,6 @@ Instalación:
 * [Vue.js](https://vuejs.org/)
 * [Pinia](https://pinia.vuejs.org/)
 * [Axios](https://axios-http.com/)
-* [TypeScript](https://www.typescriptlang.org/) (si aplica)
 * [Bootstrap](https://getbootstrap.com/) (para estilos)
 
 ## Autor ✒️
