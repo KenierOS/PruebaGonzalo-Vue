@@ -37,4 +37,4 @@ Instalación:
 
 ## Autor ✒️
 
-[KENIER] - [Tu GitHub](https://github.com/KenierOS)
+[KENIER] - (https://github.com/KenierOS)
