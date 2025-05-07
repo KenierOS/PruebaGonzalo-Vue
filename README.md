@@ -4,7 +4,7 @@ Aplicación web con Vue.js para listar y buscar usuarios desde una API externa.
 
 ## Comenzando 🚀
 
-Requisitos: [Node.js](https://nodejs.org/) y [npm](https://www.npmjs.com/) (o [yarn](https://yarnpkg.com/)).
+Requisitos: [Node.js](https://nodejs.org/) y [npm](https://www.npmjs.com/) 
 
 Instalación:
 
